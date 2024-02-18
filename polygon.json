@@ -1,0 +1,224 @@
+{
+  "id": "polygon",
+  "description": "Polygon is a layer 2 scaling solution for Ethereum, offering faster and cheaper transactions. It enhances Ethereum's scalability and usability by using a combination of sidechains, Plasma, and other scaling techniques. Polygon aims to provide a more efficient platform for decentralized applications (DApps) and improve the overall user experience on Ethereum.",
+  "tags": [
+    "layer 2",
+    "scaling solution",
+    "ethereum-compatible",
+    "sidechains",
+    "plasma"
+  ],
+  "coin_details": {
+    "name": "Polygon",
+    "symbol": "MATIC",
+    "logo": "logo/polygon.png",
+    "max_supply": "10,000,000,000"
+  },
+
+  "Polygon": {
+    "Description": "A layer 2 scaling solution for Ethereum.",
+    "MainChain": {
+      "Name": "Polygon PoS Chain",
+      "Description": "Proof-of-stake blockchain providing security and consensus.",
+      "Features": ["Security", "Consensus"]
+    },
+    "Sidechains": {
+      "Description": "Ethereum-compatible sidechains created using Polygon SDK.",
+      "Features": ["Customizable", "Tailored Use Cases"]
+    },
+    "CommitChain": {
+      "Description": "Chain for checkpointing sidechain state onto Ethereum mainnet.",
+      "Features": ["Security", "Decentralization"]
+    },
+    "Bridge": {
+      "Description": "Facilitates asset movement between Ethereum mainnet and Polygon sidechains.",
+      "Features": ["Interoperability", "Asset Transfer"]
+    },
+    "Layer2Solutions": {
+      "Description": "Optimistic rollups and zk-rollups for further scalability.",
+      "Features": ["Scalability", "Reduced Transaction Costs"]
+    }
+  },
+
+  "OfficialLinks": {
+    "Website": "https://polygon.technology/",
+    "Documentation": "https://docs.polygon.technology/",
+    "GitHubRepository": "https://github.com/ethereum",
+    "Twitter": "https://twitter.com/0xPolygon",
+    "MediumBlog": "https://blog.polygon.technology/",
+    "Reddit": "https://www.reddit.com/r/maticnetwork/"
+  },
+
+  "SocialMedia": {
+    "Twitter": {
+      "Name": "Polygon Twitter",
+      "Link": "https://twitter.com/0xPolygon",
+      "Description": "Official Twitter account for Polygon updates and announcements."
+    },
+    "Reddit": {
+      "Name": "Polygon Subreddit",
+      "Link": "https://www.reddit.com/r/maticnetwork/",
+      "Description": "Community-driven subreddit for discussions and news related to Polygon."
+    },
+    "Medium": {
+      "Name": "Polygon Medium Blog",
+      "Link": "https://blog.polygon.technology/",
+      "Description": "Official Medium blog for in-depth articles and insights about Polygon."
+    }
+  },
+
+  "DataAggregator": {
+    "Name": "Polygon Blockchain Data Aggregator",
+    "Description": "A service that aggregates and provides data related to the Polygon blockchain.",
+    "Features": [
+      "Blockchain data retrieval",
+      "Transaction tracking",
+      "Address balance monitoring",
+      "Smart contract analytics"
+    ],
+    "Providers": [
+      {
+        "Name": "Etherscan",
+        "Link": "https://etherscan.io/",
+        "Description": "A popular blockchain explorer providing data for multiple Ethereum-based chains, including Polygon."
+      },
+      {
+        "Name": "Polygonscan",
+        "Link": "https://polygonscan.com/",
+        "Description": "A dedicated explorer for the Polygon network, providing detailed information about transactions, addresses, and contracts."
+      }
+    ]
+  },
+
+  "Explorers": [
+    {
+      "Name": "Polygonscan",
+      "Link": "https://polygonscan.com/",
+      "Description": "A dedicated explorer for the Polygon network, providing detailed information about transactions, addresses, and contracts."
+    },
+    {
+      "Name": "Maticvigil",
+      "Link": "https://maticvigil.com/",
+      "Description": "A blockchain explorer for the Polygon network, offering real-time monitoring and analytics."
+    },
+    {
+      "Name": "Quickscan",
+      "Link": "https://quickscan.bwarelabs.com/",
+      "Description": "Provides quick and comprehensive analysis of transactions and addresses on the Polygon network."
+    }
+  ],
+
+  "Bridges": [
+    {
+      "Name": "Polygon Bridge",
+      "Link": "https://bridge.polygon.network/",
+      "Description": "The official bridge provided by Polygon for transferring assets between Ethereum mainnet and Polygon's sidechains."
+    },
+    {
+      "Name": "Anyswap Bridge",
+      "Link": "https://anyswap.exchange/bridge",
+      "Description": "A decentralized cross-chain bridge supporting the transfer of assets between Ethereum and various other blockchains, including Polygon."
+    },
+    {
+      "Name": "Connext Bridge",
+      "Link": "https://bridge.connext.network/",
+      "Description": "A bridge solution that allows for fast and low-cost transfers of assets between Ethereum and Polygon."
+    }
+  ],
+
+  "BountyPrograms": [
+    {
+      "Name": "Polygon Bug Bounty Program",
+      "Link": "https://polygon.technology/bug-bounty/",
+      "Description": "An ongoing bug bounty program where developers can report security vulnerabilities and earn rewards for helping to improve the security of the Polygon network."
+    },
+    {
+      "Name": "Polygon Grant Program",
+      "Link": "https://polygon.technology/grants/",
+      "Description": "A grant program aimed at funding projects and initiatives that contribute to the development and growth of the Polygon ecosystem. Developers can apply for grants to build tools, DApps, and infrastructure on Polygon."
+    }
+  ],
+
+  "GrantsPrograms": [
+    {
+      "Name": "Polygon Grants Program",
+      "Link": "https://polygon.technology/grants/",
+      "Description": "The official grants program by Polygon aimed at funding projects and initiatives that contribute to the development and growth of the Polygon ecosystem. Developers can apply for grants to build tools, DApps, and infrastructure on Polygon."
+    },
+    {
+      "Name": "Polygon Ecosystem Fund",
+      "Link": "https://polygon.technology/ecosystem-fund/",
+      "Description": "A fund established by Polygon to support projects, teams, and individuals building on the Polygon ecosystem. The fund provides financial resources to accelerate the development of innovative solutions on Polygon."
+    }
+  ],
+
+  "TestnetFaucets": [
+    {
+      "Ropsten Ethereum Faucet": {
+        "Link": "https://faucet.ropsten.be/",
+        "Description": "A faucet for the Ropsten Ethereum testnet. Provides free Ropsten ETH for testing purposes."
+      },
+      "Kovan Ethereum Faucet": {
+        "Link": "https://faucet.kovan.network/",
+        "Description": "A faucet for the Kovan Ethereum testnet. Provides free Kovan ETH for testing purposes."
+      },
+      "Rinkeby Ethereum Faucet": {
+        "Link": "https://faucet.rinkeby.io/",
+        "Description": "A faucet for the Rinkeby Ethereum testnet. Provides free Rinkeby ETH for testing purposes."
+      }
+    }
+  ],
+  "RPCs": [
+    {
+      "Mainnet": {
+        "RPC Endpoint": "https://polygon-rpc.com/",
+        "Network": "Mainnet",
+        "Description": "RPC endpoint for interacting with the Polygon mainnet blockchain."
+      },
+      "Testnet": {
+        "RPC Endpoint": "https://mumbai.polygonscan.com/",
+        "Network": "Testnet (Mumbai)",
+        "Description": "RPC endpoint for interacting with the Polygon testnet (Mumbai) blockchain."
+      },
+      "Custom": {
+        "RPC Endpoint": "YOUR_CUSTOM_RPC_ENDPOINT",
+        "Network": "Custom",
+        "Description": "Replace 'YOUR_CUSTOM_RPC_ENDPOINT' with your own custom RPC endpoint for connecting to a specific Polygon network or node."
+      }
+    }
+  ],
+  "Wallets": [
+    {
+      "Name": "MetaMask",
+      "Description": "A popular browser extension wallet that supports Ethereum and Polygon networks. It allows users to manage Ethereum-based assets and interact with decentralized applications (DApps) seamlessly.",
+      "Link": "https://metamask.io/"
+    },
+    {
+      "Name": "MyEtherWallet (MEW)",
+      "Description": "An open-source, client-side interface for interacting with the Ethereum and Polygon blockchains. MEW allows users to create and manage wallets, send and receive tokens, and interact with smart contracts.",
+      "Link": "https://www.myetherwallet.com/"
+    },
+    {
+      "Name": "Trust Wallet",
+      "Description": "A mobile wallet that supports a wide range of cryptocurrencies, including Ethereum-based assets like those on the Polygon network. Trust Wallet provides a secure and user-friendly interface for managing digital assets.",
+      "Link": "https://trustwallet.com/"
+    }
+  ],
+  "Oracles": [
+    {
+      "Name": "Chainlink",
+      "Description": "A decentralized oracle network that provides tamper-proof, reliable data feeds for smart contracts on various blockchains, including Polygon. Chainlink oracles enable smart contracts to interact with off-chain data sources securely.",
+      "Link": "https://chain.link/"
+    },
+    {
+      "Name": "Band Protocol",
+      "Description": "A cross-chain data oracle platform that aggregates and connects real-world data and APIs to smart contracts. Band Protocol oracles provide decentralized data feeds to applications on Polygon and other blockchains.",
+      "Link": "https://bandprotocol.com/"
+    },
+    {
+      "Name": "Tellor",
+      "Description": "A decentralized oracle network that provides high-value off-chain data to Ethereum-based smart contracts. Tellor oracles allow smart contracts on Polygon and other chains to access secure and reliable data feeds.",
+      "Link": "https://tellor.io/"
+    }
+  ]
+}
